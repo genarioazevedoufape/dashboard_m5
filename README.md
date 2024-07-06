@@ -12,8 +12,8 @@ Para a construção dos modelos de previsão dos dados de venda do Walmart, foi 
 ### Telas
 
 ![Home](img/Home.png)
-![Home](img/Dados.png)
 ![Home](img/Previsões.png)
+![Home](img/Dados.png)
 ![Home](img/sobre.png)
 
 
